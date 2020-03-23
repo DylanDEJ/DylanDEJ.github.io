@@ -9,4 +9,16 @@ Gebruikten Breakpoints:
 •	1366x768
 •	1920x1080
 
+# XT2-Challenge-2
+ Geanimeerde klok
+
+Dit is een digitale klok die 4 verschillende fases weergeeft. De fases zijn: ontbijt, vrije tijd, avondeten en slapen, de fases worden aangegeven via de icoontjes en de tekst met het groene bolletje. Als er een minuut omgaat wordt dat visueel weergeven.
+
+Gebruikten Breakpoints:
+•	360x640
+•	768x1024
+•	1366x768
+•	1920x1080
+
+
 Dylan Lemmers 18061079
