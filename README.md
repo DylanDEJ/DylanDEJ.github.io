@@ -20,5 +20,16 @@ Gebruikten Breakpoints:
 •	1366x768
 •	1920x1080
 
+# XT2-Challenge-3
+ Landing cockpit
+
+Met behulp van de NASA API wordt er een camera weergeven van de voorkant van de cockpit. En door de weatherAPI is er een functie ontworpen de aangeeft of je kan landen of niet. de landing compententies zijn: temperatuur, windsnelheid en wolkdichtheid. Dus door de camera en de land functie kan de piloot veilig op mars landen.
+
+Gebruikten Breakpoints:
+•	360x640
+•	768x1024
+•	1366x768
+•	1920x1080
+
 
 Dylan Lemmers 18061079
